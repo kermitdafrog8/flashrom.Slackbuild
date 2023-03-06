@@ -1,0 +1,8 @@
+Flashrom is a utility for detecting, reading, writing, verifying and erasing
+flash chips. It is often used to flash BIOS/EFI/coreboot/firmware images
+in-system using a supported mainboard, but it also supports flashing of
+network
+cards (NICs), SATA controller cards, and other external devices which can
+program flash chips.
+
+https://www.flashrom.org/Flashrom
